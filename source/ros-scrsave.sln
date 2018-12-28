@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ros-scrsave", "ros-scrsave\ros-scrsave.vcxproj", "{D8A5CDCE-522D-4675-87AA-DD77AB1C1244}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D8A5CDCE-522D-4675-87AA-DD77AB1C1244}.Debug|x64.ActiveCfg = Debug|x64
+		{D8A5CDCE-522D-4675-87AA-DD77AB1C1244}.Debug|x64.Build.0 = Debug|x64
+		{D8A5CDCE-522D-4675-87AA-DD77AB1C1244}.Debug|x86.ActiveCfg = Debug|x64
+		{D8A5CDCE-522D-4675-87AA-DD77AB1C1244}.Debug|x86.Build.0 = Debug|x64
+		{D8A5CDCE-522D-4675-87AA-DD77AB1C1244}.Release|x64.ActiveCfg = Release|x64
+		{D8A5CDCE-522D-4675-87AA-DD77AB1C1244}.Release|x64.Build.0 = Release|x64
+		{D8A5CDCE-522D-4675-87AA-DD77AB1C1244}.Release|x86.ActiveCfg = Release|Win32
+		{D8A5CDCE-522D-4675-87AA-DD77AB1C1244}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {906C3E25-3934-4F3C-B11D-28FAAB1DC149}
+	EndGlobalSection
+EndGlobal
